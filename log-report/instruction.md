@@ -7,5 +7,6 @@ whitespace-separated field on each line).
 - "top_path": string, the request path that appears most often across all requests
 (the path from the HTTP request line, e.g. "/index.html").
 Do not modify /app/access.log.
+
 You have 120 seconds to complete this task. Do not cheat by using online solutions or
 hints specific to this task.
